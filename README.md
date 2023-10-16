@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aayushi !
+- 👋 Hi, I’m Aayushi !
 - 👀 I’m interested in technology generally!
 - 🌱 I’m currently learning Java and C
 - 💞️ I’m looking to collaborate on any kind of projects
